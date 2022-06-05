@@ -1,1 +1,1 @@
-# FundamentalsJava
+# JavaFundamentals
